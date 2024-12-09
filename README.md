@@ -1,1 +1,2 @@
 # odin-recipes
+This is where I will be completing the recipes project from The Odin Project's Foundations course. Currently, this will only serve as practice for the HTML skills I have learnt so far. Later, it will be updated with CSS and JS.
