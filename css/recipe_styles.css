@@ -13,11 +13,9 @@ h1,h2{
 
 .recipe-pic{
     display:block;
-    margin-left:auto;
-    margin-right:auto;
+    margin:auto;
     height: 300px;
     width: auto;
-    width:50%;
 
 }
 
