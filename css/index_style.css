@@ -6,7 +6,7 @@ text{
 h1{
     text-align:center;
     font-weight:1000;
-    color:brown;
+    color:rgb(206, 61, 17);
     font-size:40px;
 }
 
@@ -17,4 +17,25 @@ ul{
     text-align:center;
     font-weight:500;
     
+}
+
+li{
+    display:inline-block;
+    vertical-align: top;
+    border:solid 1px black;
+    padding: 20px;
+
+}
+
+ul li{
+    background-color: aliceblue;
+    
+}
+
+
+
+
+.title{
+    border:solid rgb(217, 75, 24) 3px;
+    background-color: rgb(244, 194, 180);
 }
